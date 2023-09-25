@@ -1,0 +1,24 @@
+﻿1. What is SEO and explain the importance of SEO?
+
+
+SEO stands for Search engine optimization. It helps us to optimize our website so that our website achieves higher rankings in the web browsers like Chrome, opera, Firefox etc.                
+
+
+2. What are the benefits of using meta tags?
+
+
+Meta tags serve a key role in search engine optimization, including:
+* SEO(Search engine optimization): Meta tags, including "description" and "keywords," improve a webpage's search engine visibility and user click-through rates
+* Open Graph Protocol meta tags allow developers to customize how web pages look when shared on social media platforms, enhancing the visual appeal and informativeness of shared links.
+* Character Encoding and Language: Meta tags for character encoding (e.g UTF-8) ensure precise text display, vital for special characters and multilingual content.
+* The viewport meta tag is essential for responsive web design, enabling developers to define the initial scale and width, ensuring optimal adaptation to various screen sizes and resolutions,
+* Certain meta tags enhance web accessibility by providing information to assistive technologies, aiding users with disabilities.
+
+
+3. What is Favicon and give illustrative example                
+
+
+A favicon is a small image displayed next to the page title in the browser tab.
+
+
+Please refer to the code part and solution screenshots part  for illustrative example
